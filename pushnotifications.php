@@ -70,5 +70,5 @@
 		$deviceToken = $forpush['gcm_apns_Id'];
 		$this->droid_sendnotification_message($deviceToken,$messagetitle,$messagedes);
 		}
-	}
+	
 	
